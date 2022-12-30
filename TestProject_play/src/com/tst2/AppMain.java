@@ -1,4 +1,4 @@
-package com.tst;
+package com.tst2;
 
 public class AppMain {
   private int number;
